@@ -27,5 +27,5 @@ En lo aprendido del siguiente ejercicio puedo decir que fue la sintaxis y mas so
 Ademas se aprende a como gestionar los errores posibles en un formulario ya que el ser humano le encantan romper cosas (como yo).
 
 ```ruby
-puts "Fin"
+puts "08  de Sep 2025"
 ```
