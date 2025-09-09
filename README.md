@@ -1,24 +1,31 @@
-# README
+# Tarea 5 Semana 7
+## Jeferson Josue Escobar Herrera
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Programacion Web
 
-Things you may want to cover:
+## Fomulario Funcionando al 100%
+![Evidenciauno](./evidencias_tareas/01_evidencia.png)
 
-* Ruby version
+## Formulario Registrando al 100%
+![Evidenciados](./evidencias_tareas/02_evidencia.png)
 
-* System dependencies
+## Formulario Dando Error al 100%
+![Evidenciatres](./evidencias_tareas/03_evidencia.png)
 
-* Configuration
+### Validaciones Aplicadas y Aprendizaje
 
-* Database creation
+Algunas validaciones aplicadas en el presente proyecto de ejercicio fueron:
 
-* Database initialization
+* Restricciones para que ciertos campos en especificos no esten vacios.
 
-* How to run the test suite
+* Validacion del campo nombre donde estrictamente tiene que tener 3 caracteres como minimo.
 
-* Services (job queues, cache servers, search engines, etc.)
+* Evitar duplicidad donde en la tabla del campo email, el email que sea ingresado sea unico.
 
-* Deployment instructions
+En lo aprendido del siguiente ejercicio puedo decir que fue la sintaxis y mas sobre el modelo de MVC es algo que la verdad al programador se le facilatan las tareas al programar.
 
-* ...
+Ademas se aprende a como gestionar los errores posibles en un formulario ya que el ser humano le encantan romper cosas (como yo).
+
+```ruby
+puts "Fin"
+```
